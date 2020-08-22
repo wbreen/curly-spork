@@ -3,6 +3,9 @@ Webscraping for Pets Bring Joy and updating their pet listings
 
 ## Roadmap
 1. figure out the websites and how the output looks like for updating the listings on pets bring joy.
+ - Looks like they use petfinder
+ - petfinder offers an api for requesting information here
+ - https://www.petfinder.com/developers/api-docs
 
 2. Learn how to get some basic webscraping, including getting pictures from a website
 
