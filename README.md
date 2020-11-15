@@ -12,8 +12,7 @@ Webscraping for Pets Bring Joy and updating their pet listings
   - NXksdfgdasdftLE9zT6roJWfjJ6cpjTdqA0hEgALmFXKf6wZDLW3ALE3Pwj
  - secret is
   - AzPSef43GxJ47wCbfkDHf9wop4OYr8zRhRoJeLP6
-3. Put the results of the webscraping (the name, the description, and the picture of the cat) into a google slides page
+3. Save the results of the api call to files
 
-4. Implement some sort of elimination of already existing pets
+4. Put the results of the webscraping (the name, the description, and the picture of the cat) into a google slides page
 
-5. Create and implement a database system for storing the id, name, description, and picture of each cat.

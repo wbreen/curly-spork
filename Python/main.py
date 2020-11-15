@@ -81,7 +81,7 @@ def get_all_pets():
 	access_token=get_access_token()
 	# print(access_token)
 	pets=get_pet_info(access_token)
-
+	print(pets)
 	return pets
 	
 	# print('Output of curl command' % json_output)
