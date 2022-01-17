@@ -8,8 +8,8 @@ import json
 test_url="http://olympus.realpython.org/profiles/aphrodite"
 
 api_url="https://api.petfinder.com/v2/oauth2/token"
-api_key="NXktLE9zT6roJWfjJ6cpjTdqA0hEgALmFXKf6wZDLW3ALE3Pwj"
-api_secret="AzPSef43GxJ47wCbfkDHf9wop4OYr8zRhRoJeLP6"
+api_key="UbWFPzUs8CoDW9egwI0xq2TCHSqmPcio1nFVtb1Z628RDOwCLr"
+api_secret="idl5W4DfS3vl1RH594JCBu0r9KSuwAhxOwjE7C6E"
 pbj_organization="https://api.petfinder.com/v2/organizations/VA647"
 pbj_animals="https://api.petfinder.com/v2/animals?organization/VA647"
 pbj_organization
