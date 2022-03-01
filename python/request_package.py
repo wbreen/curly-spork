@@ -9,9 +9,6 @@ pbj_organization = "https://api.petfinder.com/v2/organizations/VA647"
 pbj_animals = "https://api.petfinder.com/v2/animals?organization/VA647"
 
 
-# headers =  {
-# 	'Authorization' : f'Bearer {api_key}'
-# }
 
 #authenticate and return the token to be used for the rest of the api calls
 def authenticate():
@@ -56,7 +53,7 @@ def get_array_name_photo(auth_token, pets_url):
 
 
 
-
-auth_token = authenticate()
-pets_url = get_org_pets_url(auth_token)
-get_array_name_photo(auth_token, pets_url)
+if __name__ == '__main__':
+	auth_token = authenticate()
+	pets_url = get_org_pets_url(auth_token)
+	get_array_name_photo(auth_token, pets_url)
