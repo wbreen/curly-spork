@@ -1,2 +1,1 @@
-pycurl==7.44.1
-requests==2.27.1
+requests==2.18.4
