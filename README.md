@@ -32,3 +32,6 @@ https://docs.google.com/presentation/d/1RPl2YlqPdWKIfWvt-Vc3NwseYNq6SsGslSeR56-D
   - overview of api: https://developers.google.com/slides/api/guides/overview
   - Slides overview: https://developers.google.com/slides
   - quickstart: https://developers.google.com/slides/api/quickstart/python
+
+- Repos:
+  - Google quickstart/snippets repo: https://github.com/googleworkspace/python-samples/tree/master/slides
